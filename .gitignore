@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local/IDE Configs
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build artifacts/Temporary directories
+build/
+bin/
+obj/
+dist/
+node_modules/
+
+# Edge Impulse exports (added dynamically)
+edge-impulse/ei-model-export/
