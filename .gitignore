@@ -23,3 +23,7 @@ node_modules/
 
 # Edge Impulse exports (added dynamically)
 edge-impulse/ei-model-export/
+
+# Temp cloned repo
+community-creations-temp/
+
